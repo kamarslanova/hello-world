@@ -1,4 +1,5 @@
 # hello-world
+Hello, my name is Kamilia and I'm CEO of ARBIDEX.
 I have always been passionate about new technologies. Before launching Arbidex I used to work as Head of Liquidity Management Department for INVENT – one of the largest Russian energy holdings that include eight energy plants. We were managing millions of transactions every day and at some point, you start looking for more efficient ways to do that. Blockchain is no doubt undeniable technology, especially for those who are looking for a decentralized solution.
 We have organized the biggest hackathon with the participation of Vitalik Buterin, and also a meeting at one of our major assets - a cable factory, where wediscussed how new technologies are changing the real economy. 
 Meeting with Vitalik sparked my professional and creative development and I realized that we often livecaught in the grip of stereotypes like "too young to be genius", "too pretty to be a leader." 
